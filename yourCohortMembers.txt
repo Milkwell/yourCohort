@@ -1,4 +1,19 @@
 The time or name of your cohort:
-
+myCohort
 
 First names of all your cohort classmates:
+Maxwell
+Jacen
+Owen
+Jacob
+Hiroko
+Stokton
+Audrey
+Autumn
+Jacob
+Jacob
+Saraph
+Stokton
+Travis
+Mary
+Hamlet
