@@ -3,7 +3,7 @@ myCohort
 
 First names of all your cohort classmates:
 Maxwell
-Jacen
+Jacen Nelson
 Owen
 Jacob
 Hiroko
